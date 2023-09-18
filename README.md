@@ -1,1 +1,1 @@
-
+This platform is basically built for univeristy and student.University and Student can login on this platform.University will upload documents and student can acces it directly.The technolgy which I have used here is IPFS technolgy.All the documents are stored cryptographicaly hased.With the content identifer, I can access the documents.Blockchain is very safe to store all data.
